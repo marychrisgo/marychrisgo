@@ -1,6 +1,6 @@
 ## Hello! 👋 😄
 
-Hi, I'm MC... an Applied Physics major. I’m currently a Geospatial Intern at Thinking Machines Data Science. :heart: 🔭 I am very interested with projects that deal with image processing and computer vision. :microscope:
+Hi, I'm MC... an Applied Physics graduate. I am very interested with projects that deal with image processing and computer vision. :microscope:
 
 ### 🌱 What’s your ✨ MBTI ✨ ?
 
