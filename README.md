@@ -1,6 +1,6 @@
 ## Hello! 👋 😄
 
-Hi, I'm MC... an Applied Physics graduate. I am very interested with projects that deal with image processing and computer vision. :microscope:
+Hi, I'm MC... an Applied Physics graduate. I am very interested with projects that deal with image processing and computer vision. :microscope: Currently, I'm taking a triple-degree master's program under Erasmus Mundus Joint Masters Degrees (EMJMDs).  
 
 ### 🌱 What’s your ✨ MBTI ✨ ?
 
