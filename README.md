@@ -1,21 +1,3 @@
-
-### ⚡ What do you do for fun?
-
-* playing musical instruments
-* study Spanish
-* eating BFF McDo fries with bbq sauce alone
-* watching F1 
-* board games (Risk, Catan, etc.)
-* diving with siblings
-* playing FPS games 
-* reading self-help books
-* inom (I have asian flush, don't panic.)
-* YouTube-ing ([exurb1a](https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg) is my favorite channel)
-* taking portraits of other people
-
-
-
-
 <h1 align="center">Hi 👋, I'm MC!</h1>
 <h3 align="center">A passionate computer vision master's student from Philippines but currently based in Spain </h3>
 
@@ -44,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marychrisgo&show_icons=true&locale=en&layout=compact" alt="marychrisgo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marychrisgo&show_icons=true&locale=en" alt="marychrisgo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marychrisgo&" alt="marychrisgo" /></p>
